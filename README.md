@@ -1,0 +1,1 @@
+![GHA workflow badge](https://github.com/qver3nc1a/ohtuvarasto/actions/workflows/main.yml/badge.svg)
