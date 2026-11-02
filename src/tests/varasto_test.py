@@ -68,4 +68,4 @@ class TestVarasto(unittest.TestCase):
 
     def test_negatiivinen_lisays(self):
         self.varasto.lisaa_varastoon(-1)
-        self.assertAlmostEqual(self.varasto.saldo, 10000000)
+        self.assertAlmostEqual(self.varasto.saldo, 0)
